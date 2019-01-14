@@ -37,3 +37,13 @@ To push commits from the current branch to a remote branch:
 ```
 git push origin [branchName]
 ```
+
+To pull commits from a remote branch into the current local branch:
+```
+git pull origin [branchName]
+```
+
+## 3. Learn more!
+Checkout these resources for learning more:
+- [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+- [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3)
