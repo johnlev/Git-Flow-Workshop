@@ -20,7 +20,7 @@ git add [fileName]
 
 To commit all of the staged changes:
 ```
-git commit -m "Youre message here"
+git commit -m "Your message here"
 ```
 
 To create a new branch:
