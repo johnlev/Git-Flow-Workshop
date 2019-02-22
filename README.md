@@ -1,6 +1,6 @@
 # Git Workshop
 
-This workshop is about learning how to use Git. In THIS repository, go crazy and make all the crazy commits you want. Here we will experience the reason Git Flow is so necessary.
+This workshop is about learning how to use Git. In THIS repository, use Git Flow.
 
 > WINDOWS USERS: [Download GitBash](https://gitforwindows.org)
 
