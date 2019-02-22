@@ -2,6 +2,8 @@
 
 This workshop is about learning how to use Git. In THIS repository, use Git Flow.
 
+![Git Flow](https://b.kisscc0.com/20180815/saq/kisscc0-github-branching-workflow-diagram-1492474981-svg-5b74286bb0f1a7.6096632915343391797248.png)
+
 > WINDOWS USERS: [Download GitBash](https://gitforwindows.org)
 
 ## 1. Clone
